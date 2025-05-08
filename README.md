@@ -73,7 +73,7 @@
 
 ## 📄 License
 
-This project is licensed under the **IceLater License v1.0**. See `LICENSE.txt` for details.
+This project is licensed under the **IceLater License v1.0**. See `LICENSE` for details.
 
 ---
 
