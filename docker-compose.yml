@@ -1,0 +1,38 @@
+version: '3.8'
+services:
+  gateway:
+    build: ./apps/gateway
+    ports: ['3000:3000']
+    env_file: .env
+    depends_on: [auth, engine]
+  auth:
+    build: ./apps/auth
+    env_file: .env
+    depends_on: [postgres]
+  engine:
+    build: ./apps/engine
+    env_file: .env
+    depends_on: [redis, postgres]
+  connectors:
+    build: ./apps/connectors
+    env_file: .env
+  ai-orchestrator:
+    build: ./apps/ai-orchestrator
+    env_file: .env
+  ui:
+    build: ./apps/ui
+    ports: ['3001:3000']
+    env_file: .env
+  postgres:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_DB: hypeai
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - ./docker/db-init:/docker-entrypoint-initdb.d
+  redis:
+    image: redis:7
+    restart: always
+      
