@@ -47,8 +47,8 @@
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/YourOrg/hypeai-flow.git
-   cd hypeai-flow
+   git clone https://github.com/icelaterdc/AI-Flow.git
+   cd AI-Flow
    ```
 
 2. **Configure environment variables**
